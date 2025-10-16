@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 711 /root/holbertonschool-shell
+chmod 711 /root/holbertonschool-shell
