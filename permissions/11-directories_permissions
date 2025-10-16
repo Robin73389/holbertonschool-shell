@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R go=x /root/holbertonschool-shell
+chmod -R 711 /root/holbertonschool-shell
